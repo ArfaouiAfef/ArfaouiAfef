@@ -119,7 +119,7 @@
 - Dashboard creation & storytelling
 - Decision-making support using analytics
 
-## 📌 Web Development | ISmart Tunisian Technoparks (S2T) – Ariana
+## 📌 Web Development | Smart Tunisian Technoparks (S2T) – Ariana
 - Full-stack development using Angular & Spring Boot
 - REST API implementation
 - MySQL database management
@@ -173,3 +173,4 @@
 ---
 
 <h3 align="center">✨ “Turning data into decisions.” ✨</h3>
+<h3 align="center">✨ “Keep learning, keep building, keep growing.” ✨</h3>
