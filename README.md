@@ -174,4 +174,4 @@ Angular, Spring Boot, REST API, Agile/Scrum
 <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=36BCF7&center=true&vCenter=true&lines=✨+Turning+Data+Into+Decisions+✨" />
 </h3>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=36BCF7&center=true&vCenter=true&lines=🚀+Keep+Learning.+Keep+Building.+Keep+Growing.+🚀/>/h3>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=36BCF7&center=true&vCenter=true&lines=🚀+Keep+Learning.+Keep+Building.+Keep+Growing.+🚀/></h3>
