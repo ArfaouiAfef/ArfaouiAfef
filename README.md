@@ -1,3 +1,6 @@
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=arfaouiafef&label=Profile%20Views&color=36BCF7&style=flat"/>
+</p>
 <!-- 🌟 HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=220&section=header&text=Afef%20Arfaoui&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
