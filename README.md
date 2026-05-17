@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Data Analytics, Power BI Dashboards & Web Development Projects**
-- 🌱 I’m currently learning **Machine Learning, Advanced Power BI (PL-300), Python & AI **
+- 🌱 I’m currently learning **Machine Learning, Advanced Power BI (PL-300), Python & AI**
 - 👯 I’m looking to collaborate on **Data Science & Full Stack Projects**
 - 💬 Ask me about **Python, SQL, Power BI,**
 - 📫 Reach me at: **arfaouii.afef@gmail.com**
@@ -36,7 +36,7 @@
 </p>
 
 ---
-<p align="center">
+
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
@@ -69,22 +69,11 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,SQLServer,docker,postman" />
 </p>
 </p>
-</p>
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arfaouiafef&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arfaouiafef&theme=tokyonight" height="180em"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfaouiafef&layout=compact&theme=tokyonight" height="180em"/>
 </p>
-
-
-
 
 ---
 
