@@ -171,4 +171,7 @@ Angular, Spring Boot, REST API, Agile/Scrum
 </p>
 
 <h3 align="center">✨ Turning Data Into Decisions ✨</h3>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=36BCF7&center=true&vCenter=true&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+R;✨+Turning+Data+Into+Decisions+✨" />
+</h3>
 <h3 align="center">🚀 Keep Learning. Keep Building. Keep Growing. 🚀</h3>
