@@ -106,10 +106,10 @@
 📊 **AI Skills 4 Women – INCO & Founderz**  
 🧠 AI fundamentals, digital transformation  
 
-📊 **Data Analytics – IZ Solution (06/2025 - 10/2025)**  
+📊 **Data Analytics – IZ Solution**  
 SQL, Python, Power BI, dashboards & reporting  
 
-📊 **INCO Academy – Tunis (10/2022 - 04/2023)**  
+📊 **INCO Academy – Tunis**  
 R, SQL, Tableau, Excel, data storytelling  
 
 💻 **Web Development – S2T Ariana**  
