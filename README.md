@@ -11,10 +11,10 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Data Analytics, Power BI Dashboards & Web Development Projects**
-- 🌱 I’m currently learning **Machine Learning, Advanced Power BI (PL-300), AI & Spring Boot**
+- 🌱 I’m currently learning **Machine Learning, Advanced Power BI (PL-300), Python & AI **
 - 👯 I’m looking to collaborate on **Data Science & Full Stack Projects**
-- 💬 Ask me about **Python, Java, Angular, Spring Boot, SQL, Power BI**
-- 📫 Reach me at: **afef.arfaoui@gmail.com**
+- 💬 Ask me about **Python, SQL, Power BI,**
+- 📫 Reach me at: **arfaouii.afef@gmail.com**
 - ⚡ Fun fact: **I love transforming raw data into smart dashboards 📊**
 
 ---
@@ -26,27 +26,27 @@
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://www.linkedin.com/" target="blank">
+<a href="www.linkedin.com/in/arfaoui-afef-data-analyst" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:afef.arfaoui@gmail.com">
+<a href="mailto:arfaouii.afef@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
 ---
-
+<p align="center">
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,sql" />
+<img src="https://skillicons.dev/icons?i=python,R,java,javascript,typescript,c,cpp,sql" />
 </p>
 
 ## 🌐 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
 </p>
 
 ## ⚙️ Backend Development
@@ -66,9 +66,10 @@
 
 ## 🛠️ Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,SQLServer,docker,postman" />
 </p>
-
+</p>
+</p>
 ---
 
 # 📊 GitHub Stats
@@ -82,13 +83,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfaouiafef&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arfaouiafef&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 
@@ -100,10 +96,6 @@
 ### 🤖 Machine Learning Projects
 - Book Popularity Prediction
 - Weather Prediction System
-
-### 🌐 Full Stack Applications
-- Angular + Spring Boot applications
-- Smart management systems
 
 ---
 
